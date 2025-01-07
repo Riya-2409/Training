@@ -6,6 +6,7 @@ int a = sc.nextInt();
 int b = sc.nextInt();
 mul = a*b;
 System.out.println("Multiplication "+mul);
+System.out.println("Substractiontion "+sub);
 
 }
 }
