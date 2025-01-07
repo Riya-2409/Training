@@ -8,5 +8,6 @@ mul = a*b;
 System.out.println("Multiplication "+mul);
 System.out.println("Substractiontion "+sub);
 
+
 }
 }
